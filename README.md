@@ -11,8 +11,11 @@
   </div>
 <hr/>
 
-| <a href="https://github.com/bhormilind-dev/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=bhormilind-dev&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Milind Bhor's github stats" /></a> | <a href="https://github.com/bhormilind-dev/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhormilind-dev&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+![bhormilind-dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhormilind-dev&show_icons=true&theme=merko)
+
+<hr/>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bhormilind-dev&theme=highcontrast&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=DD2727&stroke=65DD0C)](https://git.io/streak-stats)
 
 <!--
 **bhormilind-dev/bhormilind-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
